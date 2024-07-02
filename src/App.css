@@ -1,0 +1,36 @@
+/* 
+
+.background{
+  background-image: url('../public/bg.jpg');
+  border:3px;
+  border-color: brown;
+}
+.App {
+  text-align: center;
+  margin-top: 20px;
+  border:3px;
+  border-color: pink;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin: 10px 0;
+}
+
+input {
+  margin-left: 10px;
+}
+
+button {
+  margin-top: 10px;
+} */
+.Body{
+  background-image: url('../public/bg.jpg');
+  background-size: cover; /* or other values like contain or specific sizes */
+  background-position: center; /* or other values like top, bottom, left, right */
+  background-repeat: no-repeat; /* or other values like repeat, repeat-x, repeat-y */
+}
